@@ -21,3 +21,6 @@ def embed_lsb(image_path, output_path, message):
     img.save(output_path)
 
 embed_lsb("examples/original.png", "examples/stego.png", "CTF{LSB_HIDDEN}")
+"""Old teammate from the lat_shift001 crew.
+Still coding after midnight."""
+
